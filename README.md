@@ -18,14 +18,14 @@ O robô é capaz de **andar sozinho e evitar colisões** usando sensores ultrass
 
 | Componente | Quantidade | Função |
 
-| Arduino Uno / Nano | 1 | Unidade principal de controle |
-| Módulo Ponte H L298N | 1 | Controle dos motores DC |
-| Motores DC com roda | 2 | Movimento do carro |
-| Roda boba | 1 | Equilíbrio |
-| Sensor ultrassônico HC-SR04 | 1 a 2 | Detecção de obstáculos |
-| Bateria 9V ou 18650 (2x) | 1 pack | Alimentação |
-| Jumpers e base acrílica | — | Conexões físicas |
-| Modulo ESP8266 | 1 | Conexão remota |
+| Arduino Uno / Nano | 1 | Unidade principal de controle |<br>
+| Módulo Ponte H L298N | 1 | Controle dos motores DC |<br>
+| Motores DC com roda | 2 | Movimento do carro |<br>
+| Roda boba | 1 | Equilíbrio |<br>
+| Sensor ultrassônico HC-SR04 | 1 a 2 | Detecção de obstáculos |<br>
+| Bateria 9V ou 18650 (2x) | 1 pack | Alimentação |<br>
+| Jumpers e base acrílica | — | Conexões físicas |<br>
+| Modulo ESP8266 | 1 | Conexão remota |<br>
 
 
 ---
